@@ -3,7 +3,7 @@
 <head>
 <title>latihan_git</title>
 </head>
-<body>
+<body style="background-color: lightblue">
 <?php
 echo "<h1>Data Diri</h1>";
 echo "<p>nama : Thoni Sugiyarto</p>";
